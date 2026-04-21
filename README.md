@@ -4,8 +4,8 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0+1-green?style=for-the-badge)
 
-**Aplikasi Surveyor Distribusi Produk** — Portofolio JMP BNSP.  
-Dibangun menggunakan **Flutter**, mendukung platform Android dan iOS.
+**Aplikasi Surveyor Distribusi Produk** —   
+Dibangun menggunakan **Flutter**.
 
 ---
 
